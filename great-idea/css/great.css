@@ -81,7 +81,6 @@ header .logo {
     display:flex;
     margin-bottom: 7%;
     margin-top: 5%;
-    border-top: solid black 1px;
 }
 
 .factscontent {
@@ -89,7 +88,6 @@ header .logo {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 15px 0px 0px 0px
 }
 
 .button {
